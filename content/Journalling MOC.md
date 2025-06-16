@@ -1,0 +1,1 @@
+[[Journaling What is the Singularity]]

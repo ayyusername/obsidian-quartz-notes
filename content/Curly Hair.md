@@ -1,0 +1,1 @@
+Inositol is the ingredient in brown rice water / protein that makes it good for hair

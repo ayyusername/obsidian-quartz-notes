@@ -1,0 +1,8 @@
+- Move line down: ⌘ + ⌥ + ↓
+- Move line up: ⌘ + ⌥ + ↑
+- Paste URL into selection: ⇧ + ⌥ + L
+- Templater: Open Insert Template modal: ^ + ⌥ + M
+- Templates: Insert current date: ⌘ + U
+- Templates: Insert current time: ⌘ + Y
+- Templates: Insert template: ⌘ + T
+- Undo close tab: ⌘ + Z

@@ -1,0 +1,1 @@
+Katharina Schroth (February 22, 1894 – February 19, 1985)[1] was a German physiotherapist, best known for developing the Schroth Method to treat scoliosis.

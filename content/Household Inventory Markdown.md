@@ -1,0 +1,159 @@
+
+
+- **Living Room**
+  - **Locations:**
+    - **White Cubic Cubby**
+      - Salt lamp in blue tote (left middle cubby)
+      - Extension cord (bottom right blue tote)
+    - **Black Wicker Chest**
+      - **Upper Left Drawer:** Auking projector and projector screen
+      - **Middle Left Drawer:** Velcro, zip ties, super glue, masking tape, electrical tape
+      - **Bottom Drawer:** Placemats
+      - **Top Right Drawer:** Light bulbs
+      - **Middle Right Drawer:** Scented wax melts, tea candles, batteries
+      - **Bottom Right Drawer:** Clothes needing repair, sewing supplies
+    - **Black Stand**
+      - **Drawer:** Pens and envelopes
+    - **Small White Bookshelf**
+      - **Bottom Shelf:** Cribbage, chess, backgammon
+    - **Black Cubby Stand**
+      - **Top:** Hammocks
+      - **Middle:** Placemats
+      - **Bottom:** Audrey dog toys
+    - **Canvas Cubby Stand**
+      - **Top:** Fish food
+      - **Middle:** Empty bags and playing cards
+      - **Bottom:** Candy
+    - **Fish Tank Stand**
+      - **Cabinet:** Bucket and strainer
+    - **Blue Bookshelves**
+      - **Left Side:**
+        - **Left Cabinet:** Weed supplies
+        - **Right Cabinet:** Lighters
+        - **Bookshelves:** Cooking books
+      - **Right Side:**
+        - **Left Cabinets:** Watering jugs
+        - **Right Cabinets:** Books
+        - **Bookshelves:** Fiction books
+	- **Living Room**
+		- TV, bluetooth speaker, 5 lamps, two overhead lights, bay windows, dining room table, L-shaped sectional couch, rug, 2 dog beds
+- **Kitchen**
+  - **Locations:**
+    - **Kitchen Pantry Shelves**
+      - **Top Shelf:**
+        - Kosher salt, iodized salt, black salt, MSG, salt cellar, black pepper grinder, fancy salt, consomme powder, Knorr bouillon cubes
+        - Granulated white sugar, brown sugar, agave syrup, honey (2 kinds), molasses in a jar, palm sugar, vanilla extract (small bottle)
+        - Chickpea flour (2 jars), raw oats (2 jars), golden flax seeds, panko bread crumbs, corn starch, all-purpose flour, rolled oats (small bag)
+        - Baking powder, baking soda
+      - **Middle Shelf:**
+        - Mango powder, chana masala, pomegranate powder
+        - Bay leaves, rosemary, thyme, oregano, garlic powder, paprika, cinnamon sticks, turmeric
+        - White sesame seeds, cumin seed, chile powder, dill seed, nutritional yeast, sriracha, red pepper flakes, Kashmiri chile powder
+        - Fennel seed, dried Kashmiri chiles, apple cider vinegar, white vinegar, red wine vinegar, white wine vinegar, rice vinegar, balsamic vinegar
+      - **Bottom Shelf:**
+        - Small red beans, chana dal, chickpeas, black beans, kala chana, split green peas, brown lentils, split urad dal, baby lima beans, red lentils, pinto beans, white urad dal, black urad dal, quinoa, couscous, brown rice
+        - Mustard oil, sesame oil, extra virgin olive oil, canola oil
+      - **Far Left Drawer:**
+        - Taylor's junk
+      - **Middle Drawer:**
+        - Josh's junk
+      - **Far Right Drawer:**
+        - Audrey's medications, spare sunglasses
+      - **Bottom Left Cabinet:**
+        - **Top Shelf:**
+          - Urad dal, chana dal, black urad dal, kala chana, toor dal
+          - Ground nutmeg, ground mustard, turmeric, Italian seasoning blend, celery seed, dill seed, garlic salt, jasmine rice, yellow bulk mustard seed
+        - **Bottom Shelf:**
+          - **Black Basket:**
+            - Cardamom pods, black cardamom, black mustard seeds, Shah Jeera (black cumin), cloves, hot mustard powder, fenugreek seed, turmeric, yellow mustard seed, cinnamon ground, fennel seed, mulethi, black salt
+          - **White Container:**
+            - White pepper, Caribbean smoky jerk blend, allspice, cinnamon bark, ground nutmeg (x3), whole nutmeg, dill seed, lemon peel, ground cloves, ground cinnamon, whole cinnamon sticks, ground ginger (almost empty), ground cardamom, caraway seed, anise, citric acid
+      - **Top Right Shelf:**
+        - Indian bay leaf, fenugreek leaf, brown crystal lump sugar, ground white pepper, wasabi powder (x2), Chinese 5 spice blend (ground), hing, dried mushrooms, Szechuan peppercorn, ginger powder, dried ginger slices
+
+    - **Wire Shelves**
+      - **Floor:**
+        - Large pink salt, Brazil nuts, large coconut oil, white rice, large can of sweet red peppers
+      - **Bottom Shelves:**
+        - Bar towels, bin with dried peppers, breads and chips storage
+      - **Top Shelves:**
+        - KitchenAid mixer, skillet (3), small pot (1), pot and pan lids, kettles (2), Breville pizza oven, Vitamix blender, popcorn maker
+
+    - **Cabinets**
+      - **Upper Left:**
+        - Portable coffee cups, drinking cups, coffee mugs, coffee filters
+      - **Middle:**
+        - Plates, bowls, measuring cups, Pyrex
+      - **Far Right:**
+        - Ramen bowls, popcorn
+      - **Bottom Cabinets:**
+        - Cleaning supplies, Dawn, weed cleaning supplies, sponges, dishwasher detergent Cascade, scrub brushes
+      - **On Top:**
+        - Pots, strainers
+
+    - **Fridge**
+	    - Note: many fresh food items in stock may not be kept in inventory, but their typical locations are listed here
+      - **Left Door**
+      - **Right Door**
+      - **Top Shelf**
+      - **Bottom Shelf**
+      - **Middle Shelf**
+      - **Bottom Drawers**
+      - 
+
+    - **Baker's Rack 
+      - Coffee maker, measuring cups, measuring spoons, ladles, strainers, to-go coffee cups, box graters, chopsticks, Instant Pot, 5 cutting boards, rolling pins, potatoes, dried herbal teas
+
+    - **Purple Shelving Unit 
+      - **Shelves:**
+        - Dutch ovens (2)
+      - **Drawers:**
+        - **Top Drawer:** Garlic
+        - **Second Drawer:** Onions
+        - **Third Drawer:** Parchment paper, plastic wrap, wax paper, toothpicks
+        - **Fourth Drawer:** Ziploc bags, aluminum foil
+      - **Table Top:**
+        - Cooking utensils, paper towel roll
+
+- **Hallway**
+  - **Locations:**
+    - Front Hallway Closet
+	    - Shark Vacuum, board games, dog supplies
+    - Back Hallway Closet
+	    - Bleach
+
+- **Bedroom**
+  - **Locations:**
+    - Josh's Bedroom Closet
+	    - Josh's Clothes, sheets and pillow cases, sex supplies, 
+    - Taylor's Bedroom Closet
+	    - Taylor's clothes, air mattress
+
+- **Bathroom**
+  - **Locations:**
+	  - Cabinet: 
+		  - Medications, first aid supplies, towels, back up toiletries
+	  - Sink Cupboard: 
+		  - toilet brush, toilet bleach
+
+- **Office**
+  - **Locations:**
+    - Office Closet
+	    - Files, printer paper, printer ink
+    - Office
+	    - Printer, plant fertilizer, mail
+
+- **Basement**
+  - **Locations:**
+    - Tool Shelf
+	    - Shopvac, tools
+    - Basement
+	    - Washer and Dryer
+    - Black Shelving
+	    - Christmas decorations, duct tape
+    - Silver Shelving
+	    - Saw
+
+- **Backyard**
+  - **Details:**
+    - *No additional details provided.*

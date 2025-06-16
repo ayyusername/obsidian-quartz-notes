@@ -1,0 +1,1 @@
+[Marker](https://github.com/VikParuchuri/marker): Python Pdf > Markdown converter. Requires a better computer. 

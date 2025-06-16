@@ -9,3 +9,9 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+# Sensitive files
+API Keys.md
+*api*key*
+*secret*
+*password*
+*token*

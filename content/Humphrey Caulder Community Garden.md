@@ -1,0 +1,1 @@
+Bed Size: 8 x 12
